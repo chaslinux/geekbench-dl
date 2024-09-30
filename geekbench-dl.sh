@@ -18,4 +18,4 @@ cd $GBDIR
 
 # Remove the directory after running
 cd ..
-rm -rf $GBDIR
+rm -rf /home/$USER/Desktop/geekbench
