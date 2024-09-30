@@ -15,3 +15,7 @@ wget https://cdn.geekbench.com/$GBVER
 tar -zxvf $GBVER
 cd $GBDIR
 ./geekbench6
+
+# Remove the directory after running
+cd ..
+rm -rf $GBDIR
