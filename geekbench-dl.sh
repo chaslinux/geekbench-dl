@@ -16,7 +16,7 @@ wget https://cdn.geekbench.com/$GBVER
 tar -zxvf $GBVER
 cd $GBDIR
 
-if [ $CPUTEST=="AMD" ]
+if [ $CPUTEST == "AMD" ]
 	then
 		echo "This is an AMD CPU running geekbench_x86_64"
 		./geekbench_x86_64
