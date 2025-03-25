@@ -6,8 +6,8 @@
 # Download and install geekbench, run test
 
 # Constants
-GBVER=Geekbench-6.0.3-Linux.tar.gz
-GBDIR=Geekbench-6.0.3-Linux
+GBVER=Geekbench-6.4.0-Linux.tar.gz
+GBDIR=Geekbench-6.4.0-Linux
 
 mkdir -p /home/$USER/Desktop/geekbench
 cd /home/$USER/Desktop/geekbench
